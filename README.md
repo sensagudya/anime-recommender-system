@@ -11,7 +11,7 @@ In this project, we built 2 kind of recommender system, namely content-based fil
 
 For the detail, we add genre for each anime from the user input as picture below. We can see that user likes to watch action, comedy, and drama anime. So that, we predict that the user also love to watch other animes with same genre.
 
-![userinput2](documentation/user_input_2.png)
+![userinput22](documentation/user_input_2.png)
 
 ## content-based filtering recommender system
 
